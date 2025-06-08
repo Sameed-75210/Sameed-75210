@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sameed-75210
-- 👀 I’m interested in making a career in Data Analysis
+- 👀 I’m interested in making a career in Data Engineering
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data Science and AI
 - 📫 How to reach me Email me at : muhammadsameed2002@gmail.com
